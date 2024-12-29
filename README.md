@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">
+    Hey there 👋 I'm 
+</h3>
+<h1 align="center">
+  Sushanth Sathish Kumar
+</h1>
 
-<!--
-**sushanthkumar2004/sushanthkumar2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Math and Computer Science student at the UC Berkeley.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Repositories
+[![CUDA Accelerated Linear Algebra](https://github-readme-stats.vercel.app/api/pin/?username=sushanthkumar2004&repo=CUDA-XLA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sushanthkumar2004/CUDA-XLA)
+[![Word Hunt](https://github-readme-stats.vercel.app/api/pin/?username=sushanthkumar2004&repo=minesweeper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sushanthkumar2004/minesweeper)
